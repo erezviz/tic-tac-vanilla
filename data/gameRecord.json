@@ -1,0 +1,11 @@
+{
+    "playerSign": "O",
+    "botSign": "X",
+    "prevMoves": [],
+    "lastPlayerMove": { "i": null, "j": null },
+    "isPlayerTurn": true,
+    "movesCount": 0,
+    "botLevel": "EASY",
+    "isEndGame": false,
+    "isGameWon": false
+}
