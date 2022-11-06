@@ -1,4 +1,4 @@
-import { gameService } from './services/game.servicetest.js'
+import { gameService } from './services/game.service.js'
 
 window.onload = onInit
 
